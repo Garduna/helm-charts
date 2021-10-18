@@ -2,7 +2,7 @@
 
 # 2.22.17
 
-* Add a new configuration field `datadog.providers.eks.ec2.useHostnameFromFile` to allow use of host's `/var/lib/cloud/data/instance-id` for hostname detection.
+* Add a new configuration field `providers.eks.ec2.useHostnameFromFile` to allow use of host's `/var/lib/cloud/data/instance-id` for hostname detection.
 
 # 2.22.16
 
